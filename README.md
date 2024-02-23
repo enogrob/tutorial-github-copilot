@@ -21,7 +21,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 [x] Copilot just got exponentially smarter
 Github Copilot Series
 [x] Get Started with the Future of Coding: GitHub Copilot 
-[ ] Can you use ChatGPT in VS Code?? 
+[x] Can you use ChatGPT in VS Code?? 
 [ ] Power Up Typescript with Copilot 
 [ ] Effortless Python with GitHub Copilot 
 [ ] Using Copilot with Jupyter Notebooks 
@@ -31,3 +31,4 @@ Github Copilot Series
 [ ] Prompting with Copilot 
 [ ] GitHub Copilot with Teams
 ```
+
